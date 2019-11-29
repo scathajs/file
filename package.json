@@ -1,0 +1,15 @@
+{
+  "name": "file",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "Student",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "cors": "^2.8.5",
+    "express-fileupload": "^1.1.6"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
